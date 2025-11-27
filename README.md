@@ -1,4 +1,5 @@
-# panda-gym
+# panda-gym for SoSe 2024 Masterpraktikum - Robotic manipulation via Reinforcement Learning (IN2106, IN4373)
+
 
 Set of robotic environments based on PyBullet physics engine and gymnasium.
 
