@@ -1,7 +1,7 @@
 # panda-gym for SoSe 2024 Masterpraktikum - Robotic manipulation via Reinforcement Learning (IN2106, IN4373)
 
 
-Set of robotic environments based on PyBullet physics engine and gymnasium.
+A set of robotic environments based on the PyBullet physics engine and gymnasium.
 
 [![PyPI version](https://img.shields.io/pypi/v/panda-gym.svg?logo=pypi&logoColor=FFE873)](https://pypi.org/project/panda-gym/)
 [![Downloads](https://static.pepy.tech/badge/panda-gym)](https://pepy.tech/project/panda-gym)
@@ -63,9 +63,9 @@ You can also [![Open in Colab](https://colab.research.google.com/assets/colab-ba
 |         `PandaStack-v3`          |              `PandaFlip-v3`                    |
 | ![PandaStack-v3](docs/_static/img/stack.png) | ![PandaFlip-v3](docs/_static/img/flip.png) |
 
-## Baselines results
+## Baseline results
 
-Baselines results are available in [rl-baselines3-zoo](https://github.com/DLR-RM/rl-baselines3-zoo) and the pre-trained agents in the [Hugging Face Hub](https://huggingface.co/sb3).
+The baseline results are available in [rl-baselines3-zoo](https://github.com/DLR-RM/rl-baselines3-zoo) and the pre-trained agents in the [Hugging Face Hub](https://huggingface.co/sb3).
 
 ## Citation
 
